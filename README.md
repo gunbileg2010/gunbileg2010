@@ -11,6 +11,7 @@ I work on **kernel modules, security research, and hardware hacking**. My curren
 ## 🔬 Current Research  
 - **Xbox One BootROM & security bypass**  
 - **Voltage glitching with Teensy 4.0 & RP2040**  
+- **screwing with postmarketos on samsung a145f and samsung uart thing**
 - **Custom kernel module security mechanisms**  
 
 ## 📞 Contact  
